@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_quarilateral",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_quarilateral",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
